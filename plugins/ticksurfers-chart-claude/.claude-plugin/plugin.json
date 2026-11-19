@@ -9,6 +9,7 @@
   "homepage": "https://ticksurfers.com/connect",
   "repository": "https://github.com/ticksurfers/ticksurfers-plugins",
   "license": "MIT",
+  "privacyPolicyURL": "https://ticksurfers.com/legal/privacy",
   "keywords": [
     "ticksurfers",
     "chart",
