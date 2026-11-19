@@ -51,4 +51,8 @@ The plugin contains no scripts, hooks, or local servers. It declares one remote 
 
 ## Help
 
-Setup guide: https://ticksurfers.com/connect. Questions or problems: https://ticksurfers.com/contact. Licensed under MIT (plugin files only).
+- Setup guide: [ticksurfers.com/connect](https://ticksurfers.com/connect)
+- Documentation: [ticksurfers.com/docs/ai-mcp](https://ticksurfers.com/docs/ai-mcp)
+- Support: [ticksurfers.com/contact](https://ticksurfers.com/contact)
+
+Licensed under MIT (plugin files only).

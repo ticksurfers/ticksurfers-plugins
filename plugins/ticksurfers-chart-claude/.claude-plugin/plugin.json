@@ -10,6 +10,9 @@
   "repository": "https://github.com/ticksurfers/ticksurfers-plugins",
   "license": "MIT",
   "privacyPolicyUrl": "https://ticksurfers.com/legal/privacy",
+  "termsOfServiceUrl": "https://ticksurfers.com/legal/terms",
+  "supportUrl": "https://ticksurfers.com/contact",
+  "documentationUrl": "https://ticksurfers.com/docs/ai-mcp",
   "keywords": [
     "ticksurfers",
     "chart",
