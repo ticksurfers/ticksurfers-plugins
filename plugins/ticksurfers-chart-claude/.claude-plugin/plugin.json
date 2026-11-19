@@ -1,0 +1,22 @@
+{
+  "name": "ticksurfers-chart",
+  "version": "0.1.0",
+  "description": "Create, validate, backtest, and save custom indicators and trading strategies for TickSurfers Chart.",
+  "author": {
+    "name": "TickSurfers",
+    "url": "https://ticksurfers.com"
+  },
+  "homepage": "https://ticksurfers.com/connect",
+  "repository": "https://github.com/ticksurfers/ticksurfers-plugins",
+  "license": "MIT",
+  "keywords": [
+    "ticksurfers",
+    "chart",
+    "indicators",
+    "strategies",
+    "backtesting",
+    "technical-analysis",
+    "trading-strategies",
+    "javascript"
+  ]
+}

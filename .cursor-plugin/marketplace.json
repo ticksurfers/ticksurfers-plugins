@@ -1,0 +1,13 @@
+{
+  "name": "ticksurfers-plugins",
+  "owner": {
+    "name": "TickSurfers"
+  },
+  "plugins": [
+    {
+      "name": "ticksurfers-chart",
+      "source": "plugins/ticksurfers-chart-cursor",
+      "description": "Create, validate, backtest, and save custom indicators and trading strategies for TickSurfers Chart."
+    }
+  ]
+}

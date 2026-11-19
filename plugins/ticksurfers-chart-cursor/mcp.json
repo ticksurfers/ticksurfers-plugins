@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "ticksurfers-chart": {
+      "url": "https://ticksurfers.com/api/chart/ai/mcp"
+    }
+  }
+}
