@@ -7,6 +7,7 @@
   "plugins": [
     {
       "name": "ticksurfers-chart",
+      "displayName": "TickSurfers",
       "source": "./plugins/ticksurfers-chart-claude",
       "description": "Create, validate, backtest, and save custom indicators and trading strategies for TickSurfers Chart."
     }
