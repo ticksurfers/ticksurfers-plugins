@@ -1,7 +1,7 @@
 {
   "name": "ticksurfers-chart",
   "displayName": "TickSurfers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create, validate, backtest, and save custom indicators and trading strategies for TickSurfers Chart.",
   "author": {
     "name": "TickSurfers"
